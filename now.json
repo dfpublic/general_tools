@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "name": "general_tools",
+    "builds": [
+        { "src": "next.config.js", "use": "@now/next" }
+    ]
+}
