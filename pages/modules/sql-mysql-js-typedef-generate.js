@@ -19,7 +19,7 @@ const SAMPLE_INPUT =
 `user_particular`;
 const SAMPLE_OUTPUT = 
 `/**
-* @typedef user_particular
+* @typedef UserParticular
 * @property {string} [user_fk]
 * @property {string} [first_name]
 * @property {string} [middle_name]
