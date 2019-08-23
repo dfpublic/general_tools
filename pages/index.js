@@ -16,6 +16,7 @@ export default class Index extends React.Component {
         return (
             <NavPage title='General Tools' description=''>
                 <a href="/modules/js-convert-exports">JS Convert Exports</a>
+                <a href="/modules/js-convert-globals">JS Convert Globals</a>
             </NavPage>
         )
     }
