@@ -16,11 +16,5 @@ export const GLOBAL_NAVIGATION = [
         nodes: [
             { link: '/modules/sql-mysql-create-table', title: 'MySQL Create Table' }
         ]
-    },
-    {
-        title: 'SQL - JS Modules',
-        nodes: [
-            { link: '/modules/sql-mysql-js-typedef-generate', title: 'MySQL Generate JS Typedef' }
-        ]
     }
 ];
